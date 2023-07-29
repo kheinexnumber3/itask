@@ -1,0 +1,39 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&family=Roboto:wght@700&display=swap');
+
+ .title-main {
+    font-size: 30px;
+    font-family: Poppins;
+    text-align: center;
+ }
+
+ .done-butt {
+    border-radius: 10px;
+    background-color: rgb(38, 128, 0);
+    font-family: Poppins;
+ }
+
+ .block {
+    width: 100% !important;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    font-family: Poppins;
+  }
+  
+  ion-modal {
+    --height: auto;
+  }
+
+  .create-task{
+   height: 100%;
+   padding: 30px;
+   display: block;
+   margin-top: 20px;
+   margin-bottom: 20px;
+  }
+
+  .input-text{
+   font-size: 150% !important;
+   margin-bottom: 20px;
+   font-family: Poppins;
+  }
